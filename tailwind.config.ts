@@ -11,6 +11,14 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        borderColorFields: "#373737",
+      },
+      backgroundImage: {
+        "text-gradient":
+          "linear-gradient(96.34deg, hashtag#FF4E83 0.62%, hashtag#FFBB54 97.92%)",
+      },
+      backgroundColor: {
+        fields: " #141414",
       },
     },
   },
